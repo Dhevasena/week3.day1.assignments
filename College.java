@@ -1,0 +1,19 @@
+package org.college;
+
+public class College {
+
+	public String collegeName()
+	{
+		return "CollegeName:IIT";
+	}
+	public int collegeCode()
+	{
+		return 123;
+	}
+	public int collegeRaank()
+	{
+		return 1;
+	}
+}
+
+
